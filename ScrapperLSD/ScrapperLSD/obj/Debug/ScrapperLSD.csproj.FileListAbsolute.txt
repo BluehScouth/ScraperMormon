@@ -1,0 +1,6 @@
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\bin\Debug\ScrapperLSD.exe.config
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\bin\Debug\ScrapperLSD.exe
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\bin\Debug\ScrapperLSD.pdb
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\obj\Debug\ScrapperLSD.csprojResolveAssemblyReference.cache
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\obj\Debug\ScrapperLSD.exe
+D:\MB_Laboratorio\ScraperMormon\ScraperMormon\ScrapperLSD\ScrapperLSD\obj\Debug\ScrapperLSD.pdb
